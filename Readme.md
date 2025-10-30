@@ -1,4 +1,4 @@
-# HungryBot: Restaurant Data Scraper & RAG-based Chatbot 🍽️🤖
+# Yummify: Restaurant Data Scraper & RAG-based Chatbot 🍽️🤖
 
 An intelligent restaurant recommendation system that combines web scraping, RAG (Retrieval Augmented Generation), and a conversational interface to provide personalized dining suggestions.
 
